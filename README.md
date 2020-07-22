@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi... I'm Masstee👋
+I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
 <!--
 **Masstee/Masstee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
