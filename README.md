@@ -1,5 +1,6 @@
-## Hi... I'm Masstee👋
-I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
+## Hi... I'm Taiwo 👋
+I'm a software developer practitioner and computer programmer with an avid interest in web development. As a core programmer, I love taking challenges and love being part of the solution.
+I'm a skilled web developer with a passion for crafting intuitive and engaging online experiences. With a keen eye for design and a deep understanding of the latest web development technologies, I have a proven track record of delivering high-quality websites and applications that exceed client expectations. Whether you're looking to launch a new site or take your existing online presence to the next level.
 <!--
 **Masstee/Masstee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
